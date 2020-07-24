@@ -31,4 +31,22 @@
 - 참여도 : 100%
 - 기여도 : 20% (참여인원 5명)
 
+## 사이드 프로젝트
+[채팅프로그램(바로가기)](https://github.com/cbsmycom/BUMBLETALK)
+
+## 개요
+-Spring boot를 기반, websocket 사용한 간단한 채팅프로그램
+
+## 구현 기능
+- 아이디 입력 및 실시간 채팅 구현
+
+## 사이드 프로젝트
+[Ajax Application/Practice(바로가기)](https://github.com/cbsmycom/AjaxApplication)
+
+## 개요
+-Ajax를 위주로 사용하여 간단한 CRUD Application 구현
+
+## 구현 기능
+- 사용자 등록, 사용자 정보 변경, 비밀번호 변경, 유저별 저장된 데이터 실시간 화면 출력
+
 Portfolio Summary
